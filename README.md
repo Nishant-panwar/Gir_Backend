@@ -1,5 +1,5 @@
 # Gir_Backend
-Gir is a market place, which connects different product vendors to consumers, using an online platform.Task here is to design and implement a backend system for Gir.
+Gir is a market place, which connects different product vendors to consumers, using an online platform.Task here is to design and implement a backend system for Gir
 
 
 ### List all products
